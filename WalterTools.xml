@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RpsAddin>
+  <RibbonPanel text="Walter Tiny Help Tools">
+    <SplitButton text="Underlay">
+      <!-- the script is always searched relative to the location of the RpsAddin xml file -->
+      <PushButton text="CAD/DWG  Visibility" largeImage="CAD.png" smallImage="CAD1.png" src="CAD.py"/>
+      <PushButton text="Point Cloud Visibility"  largeImage="PC.png" smallImage="PC1.png" src="PC.py"/>
+      <PushButton text="Raster Images Visibility" largeImage="RI.png" smallImage="RI1.png" src="RI.py"/>
+    </SplitButton>
+      <PushButton text="Delete Multiple Parameters" largeImage="LM.png" smallImage="LM1.png" src="DeleteParams.py"/>
+  </RibbonPanel>
+</RpsAddin>

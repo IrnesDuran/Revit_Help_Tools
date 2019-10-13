@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Irnes Duran</Name>
+    <Assembly>.\WalterTools\WalterTools.dll</Assembly>
+    <AddInId>4a8a2d24-51ed-462b-949f-1ddcca12008c</AddInId>
+    <FullClassName>WalterTools</FullClassName>
+    <VendorId>RIPA</VendorId>
+  </AddIn>
+</RevitAddIns>
+
